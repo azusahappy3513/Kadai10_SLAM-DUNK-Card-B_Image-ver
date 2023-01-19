@@ -1,0 +1,55 @@
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #fbf9eb;
+  display: block;
+ }
+
+
+
+.demo{
+  position: relative;
+ 
+ } 
+
+ .demo button{
+  position:absolute;
+  top: 95%;
+  left: 50%;
+  color: rgb(43, 40, 40);/*文字を白に*/
+  background: rgb(235, 135, 195);/*背景色*/
+  font-size: 30px;
+  -ms-transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+  color:#FFF;
+
+  }
+
+  .demo audio{
+    position:absolute;
+    top: 95%;
+    left: 10%;
+    font-size: 1px;
+    -ms-transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+   
+    }
+
+
+
+ .start_title{
+  width: auto;
+  height:auto;
+  background-color: #fbf9eb;
+  display: block;
+  margin:auto;
+}
+
+
