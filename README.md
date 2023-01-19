@@ -1,1 +1,0 @@
-# Kadai10_SLAM-DUNK-Card-B_Image-ver
